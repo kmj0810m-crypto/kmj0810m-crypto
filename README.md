@@ -1,6 +1,5 @@
 ## Hi there 👋
-I'm currently learning AI
-I interested in AI
+I'm currently learning AI. And I interested in AI
 <!--
 **kmj0810m-crypto/kmj0810m-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
